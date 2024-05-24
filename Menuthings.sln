@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menuthings", "Menuthings\Menuthings.csproj", "{C5CAA007-ED64-4299-87E4-12C3F5A09832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5CAA007-ED64-4299-87E4-12C3F5A09832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5CAA007-ED64-4299-87E4-12C3F5A09832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5CAA007-ED64-4299-87E4-12C3F5A09832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5CAA007-ED64-4299-87E4-12C3F5A09832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F36ECCC1-2AF7-41DC-A2C6-2DC59566D4C7}
+	EndGlobalSection
+EndGlobal
